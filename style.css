@@ -1,7 +1,7 @@
 h1 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: brown;
+  color: gray;
   text-align: center;
-  border: 1px solid brown;
+  border: 1px solid gray;
   margin: 100px;
 }
